@@ -1,2 +1,2 @@
-# download_genome
-codes to download genome from different sources using just few lines
+# genome download 
+codes to download genomes from different sources using just a few lines
